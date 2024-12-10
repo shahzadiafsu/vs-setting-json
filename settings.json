@@ -1,0 +1,87 @@
+{
+    "editor.fontSize": 17,
+    "editor.tabSize": 2,
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {"*html":"html"},
+    "better-comments.tags": [
+
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "banner-comments.favorites": [
+        "3-D",
+        "3D Diagonal"
+    ],
+    "workbench.colorTheme": "Default Light+",
+    "workbench.editorAssociations": {
+        "*.TMP": "default",
+        "*.class": "default",
+        "*.js": "default",
+        "*.svg": "default"
+    },
+    "redhat.telemetry.enabled": true,
+    "editor.stickyScroll.enabled": false,
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "workbench.layoutControl.enabled": false
+}
